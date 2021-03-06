@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour
 
 
 I'm Sumanth, a 21 year old student currently studying at [International Institute of Information Technology, Hyderabad ](https://www.iiit.ac.in/), Hyderbad initially hailing from Chennai. I'm pursuing a Bachelor's degree in Computer Science and  Masters of Science in Computational Linguistics by Research. I currently work in the [Information Retrieval and Extraction Lab](https://irel.iiit.ac.in/) working on problems such as Style Transfer, Guided Summarisation, Hate Speech and more. I am competant in C++, Java, Python along with multitudes of frameworks.   
