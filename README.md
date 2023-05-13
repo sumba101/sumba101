@@ -4,7 +4,7 @@
 
 I'm Sumanth balaji, a 23 year old graduate from [International Institute of Information Technology, Hyderabad ](https://www.iiit.ac.in/), Hyderbad initially hailing from Chennai. I have a Bachelor's degree in Computer Science and  Masters of Science in Computational Linguistics by Research. I am competant in C++, Java, Python along with multitudes of frameworks.   
 
-I'm really interested in applying NLP solutions to products and problems. I also have major interest in startups and opensource projects, having started my own startup(in hush-hush mode rn) and opensource projects (check out [bunkbot](https://github.com/sujaysathya/bunk_bot), a Python script that attends your online classes and answers very basic questions for you in your place). You might find more about me by just looking through my repositories.
+I'm really interested in applying NLP solutions to products and problems. I also have major interest in startups and opensource projects, having started my own startup(in hush-hush mode rn) and opensource projects (check out [AUTOMATED ATTENDING SYSTEM](https://github.com/sujaysathya/Automated_Attending_System), a Python script that attends your online classes and answers very basic questions for you in your place). You might find more about me by just looking through my repositories.
 
 ## Contact Me!
 
